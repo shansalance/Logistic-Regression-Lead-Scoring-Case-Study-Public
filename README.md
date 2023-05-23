@@ -1,6 +1,5 @@
 # Logistic-Regression-Lead-Scoring-Case-Study-Public
 
-Lead Scoring Case Study
 This repository contains the code and documentation for the Lead Scoring Case Study conducted for X Education. The objective of this study was to identify the most promising leads that have a high probability of converting into paying customers. The target lead conversion rate set by the CEO was approximately 80%.
 
 Problem Statement
